@@ -11,7 +11,7 @@ cd phytosplice
 
 echo "Creating local conda environment in './env'..."
 # Creating the environment in the ./env directory as per project guidelines
-conda env create -p ./env -f ../environment.yml 
+conda env create -p ./env -f environment.yml 
 
 echo "Making install_desktop_shortcut.sh executable and running it..."
 chmod +x install_desktop_shortcut.sh
