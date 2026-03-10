@@ -1,0 +1,24 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - salmon
+  - r-shinydashboard
+  - r-shinyjs
+  - r-shinywidgets
+  - r-base
+  - r-colourpicker
+  - r-bslib
+  - suppa
+  - samtools
+  - r-plotly
+  - rmats2sashimiplot
+  - hisat2
+  - gffread
+  - rmats
+  - r-shiny
+  - r-tidyverse
+  - r-dt
+  - gdown
+
