@@ -1,6 +1,6 @@
 # PhytoSplice
 
-PhytoSplice is a comprehensive, modular Shiny application engineered to streamline Alternative Splicing (AS) analysis. Designed with a user-friendly interface, it unifies the entire computational workflow—from read alignment and transcript quantification to differential splicing analysis and interactive visualization.
+PhytoSplice is a comprehensive, modular Shiny application engineered to streamline Alternative Splicing (AS) analysis. Designed with a user-friendly interface, it unifies the entire computational workflow from read alignment and transcript quantification to differential splicing analysis and interactive visualization.
 
 ## 🚀 Key Features
 
