@@ -54,7 +54,7 @@
   • Python Dependencies (Python 3.12+):
     pip install xgboost shap scikit-learn numpy pandas matplotlib
 
-  ──────
+  
   ## Usage
 
   Step 1: Clone the Repository
@@ -77,7 +77,7 @@
 
   Step 4: Begin Your Analysis
   Click Create New Workspace to initialize a project folder, then navigate sequentially through the top tabs (HISAT2, StringTie, Salmon, AS Detection, NMD Prediction) to progress through your workflow.
-  ──────
+  
   ## Project Architecture
 
   The application is structured to ensure modularity and maintainability:
